@@ -1,13 +1,13 @@
-package com.hanvey.minimall;
+package com.hanvey.mallcommon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MiniMallApplication {
+public class MallCommonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MiniMallApplication.class, args);
+        SpringApplication.run(MallCommonApplication.class, args);
     }
 
 }

@@ -1,10 +1,10 @@
-package com.hanvey.minimall;
+package com.hanvey.minimall.seckill;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MiniMallApplicationTests {
+class MallSeckillApplicationTests {
 
     @Test
     void contextLoads() {
